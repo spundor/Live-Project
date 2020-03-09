@@ -15,8 +15,6 @@ The objective for this story was to create a new view within the Admin controlle
 ```
 
  public ActionResult DonorList(string sortOrder)
- 
- 
         {
             ViewBag.DateSortParm = sortOrder == "Date" ? "date_desc" : "Date";
             var donor = from z in db.Subscribers
@@ -27,13 +25,10 @@ The objective for this story was to create a new view within the Admin controlle
             {
                 case "date_desc":
                     donor = donor.OrderByDescending(s => s.LastDonated);
-                    break;  
-                    
+                    break;       
             }
-
+            
             return View(donor.ToList());
         }
-       
-}
 
 ```
