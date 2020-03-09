@@ -10,8 +10,9 @@ Donor List Function:
 The objective for this story was to create a new view within the Admin controller called “Donor List” to display subscribers who had donated to the Theater. I used a Linq statement within the Admin controller to get this list of users. I also added sorting and filtering functionality. I created a corresponding view to display users that met the criteria filtered by the controller. 
 
 
-{
 
+
+```
 
  public ActionResult DonorList(string sortOrder)
  
@@ -34,3 +35,5 @@ The objective for this story was to create a new view within the Admin controlle
         }
        
 }
+
+```
