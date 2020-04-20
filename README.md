@@ -1,7 +1,7 @@
 # **Live Project**
 *Check out this code I created for a live project for a theater website.*
 
-During my last two weeks of my time at the tech academy, I worked on a team developing a full scale MVC Web App in C#. This allowed a simulated experience working in the field by utilizing daily stand-ups, Slack, Azure DevOps, etc. Although there were front end and back end stories, I chose to focus on the back end to further my knowledge of C#. I worked on several back end stories and am very proud of the work I accomplished. I learned how to work cohesively as a team and utilize the knowledge I already had to research efficiently for subjects I didn’t know as well. 
+I worked on a team developing a full scale MVC Web App in C#. This allowed a simulated experience working in the field by utilizing daily stand-ups, Slack, Azure DevOps, etc. Although there were front end and back end stories, I chose to focus on the back end to further my knowledge of C#. I worked on several back end stories and am very proud of the work I accomplished. I learned how to work cohesively as a team and utilize the knowledge I already had to research efficiently for subjects I didn’t know as well. 
 
 Below are descriptions and code snippets of the stories I worked on.
 
